@@ -39,3 +39,15 @@ Git - это одна из реализаций распределённых с�
 ![Картинка](https://cdnn21.img.ria.ru/images/7e4/1/1e/1564071684_0:148:2884:1770_1920x0_80_0_0_739d3e76e382a2d49f4559d20ce720e9.jpg)
 
 [Работа с Markdown](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html)
+
+## Работа со списками
+
+1. Один
+2. Два
+
+*
+*
++
++
+-
+-
